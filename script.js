@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const sectionsContent = {
     "birthday-wish": `
       <div id="birthday-wish" class="section-content">
-        <img src="ASSETS/Screenshot 2025-05-09 171655.gif" alt="Cake" class="sister-pic" />
-        <img src="ASSETS/WhatsApp Image 2025-05-09 at 17.00.38_14bec22a.jpg" alt="Sister Picture" class="sister-pic" />
+        <img src="Screenshot 2025-05-09 171655.gif" alt="Cake" class="sister-pic" />
+        <img src="WhatsApp Image 2025-05-09 at 17.00.38_14bec22a.jpg" alt="Sister Picture" class="sister-pic" />
         <p>Happy Birthday to my wonderful sister! Wishing you a day filled with love and joy.</p>
       </div>
     `,
@@ -23,29 +23,29 @@ document.addEventListener('DOMContentLoaded', () => {
       <section id="childhood-memory" class="section-content">
         <h2>Childhood Memory</h2>
         <p>Remember those cherished days we spent together, sharing secrets and creating lasting memories? Those moments are priceless.</p>
-        <img src="ASSETS/c1.jpg" alt="Childhood Memory" />
-        <img src="ASSETS/c2.jpg" alt="Childhood Memory" />
-        <img src="ASSETS/c3.jpg" alt="Childhood Memory" />
-        <img src="ASSETS/c4.jpg" alt="Childhood Memory" />
-        <img src="ASSETS/c5.jpg" alt="Childhood Memory" />
-        <img src="ASSETS/c6.jpg" alt="Childhood Memory" />
-        <img src="ASSETS/c7.jpg" alt="Childhood Memory" />
+        <img src="c1.jpg" alt="Childhood Memory" />
+        <img src="c2.jpg" alt="Childhood Memory" />
+        <img src="c3.jpg" alt="Childhood Memory" />
+        <img src="c4.jpg" alt="Childhood Memory" />
+        <img src="c5.jpg" alt="Childhood Memory" />
+        <img src="c6.jpg" alt="Childhood Memory" />
+        <img src="c7.jpg" alt="Childhood Memory" />
       </section>
     `,
     "photo-scroll": `
       <section id="photo-scroll" class="section-content">
         <h2>Swipe Left </h2>
         <div class="photo-scroll-container">
-          <img src="ASSETS/p1.jpg" alt="Photo 1" />
-          <img src="ASSETS/p2.jpg" alt="Photo 2" />
-          <img src="ASSETS/p3.jpg" alt="Photo 3" />
-          <img src="ASSETS/p4.jpg" alt="Photo 4" />
-          <img src="ASSETS/p5.jpg" alt="Photo 5" />
-          <img src="ASSETS/p6.jpg" alt="Photo 1" />
-          <img src="ASSETS/p7.jpg" alt="Photo 2" />
-          <img src="ASSETS/p8.jpg" alt="Photo 3" />
-          <img src="ASSETS/p9.jpg" alt="Photo 4" />
-          <img src="ASSETS/p10.jpg" alt="Photo 5" />
+          <img src="p1.jpg" alt="Photo 1" />
+          <img src="p2.jpg" alt="Photo 2" />
+          <img src="p3.jpg" alt="Photo 3" />
+          <img src="p4.jpg" alt="Photo 4" />
+          <img src="p5.jpg" alt="Photo 5" />
+          <img src="p6.jpg" alt="Photo 1" />
+          <img src="p7.jpg" alt="Photo 2" />
+          <img src="p8.jpg" alt="Photo 3" />
+          <img src="p9.jpg" alt="Photo 4" />
+          <img src="p10.jpg" alt="Photo 5" />
         </div>
       </section>
     `,
