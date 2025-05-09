@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <h2>Birthday Certificate</h2>
         <p>Download your special birthday certificate below:</p>
         <button id="download-certificate-btn">
-          <a href="ASSETS/Gold%20And%20Black%20Modern%20Happy%20Birthday%20A4%20Document%20Landscape.pdf" download="Birthday_Certificate.pdf" id="download-certificate-link" style="color: white; text-decoration: none; display: block; width: 100%; height: 100%;">Download Certificate</a>
+          <a href="Gold%20And%20Black%20Modern%20Happy%20Birthday%20A4%20Document%20Landscape.pdf" download="Birthday_Certificate.pdf" id="download-certificate-link" style="color: white; text-decoration: none; display: block; width: 100%; height: 100%;">Download Certificate</a>
         </button>
       </section>
     `
